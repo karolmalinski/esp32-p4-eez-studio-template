@@ -1,0 +1,8 @@
+{
+    "idf.currentSetup": "/Users/karolmalinski/.espressif/v5.5.3/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32p4-ftdi.cfg"
+    ],
+    "idf.port": "/dev/tty.usbmodem5B140809921",
+    "idf.flashType": "UART"
+}
